@@ -1,7 +1,7 @@
-package com.babyduncan.asychronized.callback.internal;
+package com.babyduncan.asynchronous.callback.internal;
 
-import com.babyduncan.asychronized.callback.Fetcher;
-import com.babyduncan.asychronized.callback.FetcherCallBack;
+import com.babyduncan.asynchronous.callback.Fetcher;
+import com.babyduncan.asynchronous.callback.FetcherCallBack;
 import org.apache.log4j.Logger;
 
 /**

@@ -1,4 +1,4 @@
-package com.babyduncan.asychronized.callback;
+package com.babyduncan.asynchronous.callback;
 
 /**
  * User: guohaozhao (guohaozhao116008@sohu-inc.com)
