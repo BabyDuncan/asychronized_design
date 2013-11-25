@@ -1,4 +1,4 @@
 asychronized_design
 ===================
 
-two way to implement asychronized desing (callback and future)
+two way to implement asychronized design (callback and future)
